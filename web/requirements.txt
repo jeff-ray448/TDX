@@ -1,0 +1,4 @@
+Flask
+requests
+tdx-proxy
+beautifulsoup4
