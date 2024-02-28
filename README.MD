@@ -1,11 +1,11 @@
 TDX - Trasport Data Exchange
-[TDX]https://tdx.transportdata.tw/
+[TDX](https://tdx.transportdata.tw/)
 
 This project utilizes an API to gather JSON data from CCTV cameras, including their locations and real-time video feeds. The JSON data is processed and displayed on a Leaflet map on the website. It covers CCTV cameras situated along highways, freeways, and roads.
 
 ## Installation
 
-1. git clone https://github.com/jeff-ray448/TDX
+1. git clone `https://github.com/jeff-ray448/TDX`
 2. cd  TDX
 3. pip install -r requirements.txt
 4. Configure `app_id` and `app_key`:
@@ -30,5 +30,5 @@ If you find any issues or have any suggestions for improvement, feel free to ope
 
 ## License
 
-[Privacy License]https://tdx.transportdata.tw/privacy
-[Term License]https://tdx.transportdata.tw/term
+[Privacy License](https://tdx.transportdata.tw/privacy)
+[Term License](https://tdx.transportdata.tw/term)
