@@ -30,4 +30,5 @@ If you find any issues or have any suggestions for improvement, feel free to ope
 
 ## License
 
-[MIT License](LICENSE)
+[Privacy License]https://tdx.transportdata.tw/privacy
+[Term License]https://tdx.transportdata.tw/term
