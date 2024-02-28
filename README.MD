@@ -22,7 +22,7 @@ This project utilizes an API to gather JSON data from CCTV cameras, including th
 
 ## Features
 
-- select CCTV from different cities
+- Ｓelect CCTV from different cities
 - Real-time retrieval of CCTV camera locations and video stream data.
 - Display of CCTV camera locations on a website using Leaflet maps.
 - Support for searching CCTV data by city and road.
