@@ -1,4 +1,4 @@
 Flask
 requests
-tdx-proxy
+motc-tdx-proxy
 beautifulsoup4
